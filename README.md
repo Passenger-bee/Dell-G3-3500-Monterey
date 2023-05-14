@@ -18,6 +18,8 @@ Hackintosh
 
 **CPU电源管理**：已加载原生电源管理，但是我禁用了睿频，频率一直在2.5Ghz 可以大幅降低cpu热量（2.5Ghz就够用)
 
+（通过Turbo Boost Switcher Pro这个app禁用）
+
 <img src="https://github.com/Passenger-bee/Dell-G3-3500/blob/main/README.assets/cpu%E9%A2%91%E7%8E%87.png?raw=true" alt="CPU频率" style="zoom: 45%;" />
 
 <img src="https://github.com/Passenger-bee/Dell-G3-3500-Monterey/blob/main/README.assets/Battery.png?raw=true" alt="CPU频率" style="zoom: 40%;" />
