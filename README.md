@@ -34,7 +34,7 @@ ALC id为21，其他的id声音太小（调最高也很小），这个正常多�
 
 <img src="https://github.com/Passenger-bee/Dell-G3-3500-Monterey/blob/main/README.assets/%E5%A3%B0%E9%9F%B3.png?raw=true" alt="输出音量" style="zoom:45%;" />
 
-**网络；蓝牙**：更换为苹果原装网卡以后，wifi、以太网、隔空投送、接力、随航、用AppleWatch解锁🔓一切如白苹果一般丝滑。
+**网络；蓝牙**：更换为博通Bcm94352z以后，wifi、以太网、隔空投送、接力、随航、用AppleWatch解锁🔓一切如白苹果一般丝滑。
 
 <img src="https://github.com/Passenger-bee/Dell-G3-3500-Monterey/blob/main/README.assets/%E7%BD%91%E7%BB%9C.png?raw=true" alt="网络" style="zoom:35%;" />
 
